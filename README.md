@@ -27,6 +27,6 @@ All objects inherit from the root object.
 
 Objects created by a given constructor will have the same prototype
 
-
+Prototype is just a regular object in memory
 
 -->
